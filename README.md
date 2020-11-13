@@ -1,2 +1,2 @@
-# Web2020
-Practicar HTML y CSS
+# Mi primer repositorio es Web2020
+Este repositorio es para Practicar HTML y CSS
